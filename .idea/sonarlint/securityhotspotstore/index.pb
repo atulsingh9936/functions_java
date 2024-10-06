@@ -9,10 +9,6 @@ h
 8src/test/java/Functions_programs/Mutiply_two_number.java,d\4\d425c5fb77d0a3c6c8e7e417053dd3fe59731923
 i
 9src/test/java/Functions_programs/Factorial_of_number.java,f\4\f44a963aa5222e670fda4dba855f27c89f8d6d64
-[
-+src/test/java/Functions_programs/greet.java,e\2\e246a56c817107c6545a9954e823cd73ffeb2390
-]
--src/test/java/Functions_programs/greet_1.java,3\d\3d4d75d080a22e13d2e253dcbad7d619aa76203e
 `
 0src/test/java/Functions_programs/sum_of_two.java,0\d\0de4a394ce349523dfc5dd0244008c44926353ae
 u
@@ -21,3 +17,15 @@ n
 >src/test/java/Function_Testing_academy_pratice_set/Lab148.java,7\c\7c3ea81635cd3ac6b9bf6abf139ae3ca754785a8
 o
 ?src/test/java/Function_Testing_academy_pratice_set/Lab_149.java,5\e\5e17d651cd635a269c69ca034fd91e9084b0d073
+o
+?src/test/java/Function_Testing_academy_pratice_set/Lab_150.java,b\b\bb487c8a53f44c8d4ba17b25c06ae235bcfc64e9
+
+Qsrc/test/java/Function_Testing_academy_pratice_set/sum_of_two_with_parameter.java,7\9\79cede264f8c1d483fe28504f0dd4ecb70d7c01a
+n
+>src/test/java/Function_Testing_academy_pratice_set/Lab152.java,d\9\d9d6319e14519fe65d8f81f6cced7074cb4d099e
+o
+?src/test/java/Function_Testing_academy_pratice_set/Lab_153.java,9\8\98c93578ef0dafd447054c0d4d2661fa4ac044f4
+l
+<src/test/java/Function_Testing_academy_pratice_set/Calc.java,b\8\b87998da6366a78c9ed713641dd9391844b294b0
+o
+?src/test/java/Function_Testing_academy_pratice_set/lab_155.java,f\e\fe4ee3a6df0cf1c752d4aa3e27b07709e11d7837
