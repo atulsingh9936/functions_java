@@ -29,3 +29,7 @@ l
 <src/test/java/Function_Testing_academy_pratice_set/Calc.java,b\8\b87998da6366a78c9ed713641dd9391844b294b0
 o
 ?src/test/java/Function_Testing_academy_pratice_set/lab_155.java,f\e\fe4ee3a6df0cf1c752d4aa3e27b07709e11d7837
+^
+.src/test/java/Functions_programs/even_odd.java,a\1\a14599fbc7454c600fc7069526cf4a629101cca1
+b
+2src/test/java/Functions_programs/Prime_number.java,b\c\bc640c5f1dd1424272e96380d9e01d691c0475b1
